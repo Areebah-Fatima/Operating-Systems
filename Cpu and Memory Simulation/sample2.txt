@@ -1,0 +1,1126 @@
+1       // Load O
+79
+9  // Print character
+2
+1       // Load P
+80
+9  // Print character
+2
+1       // Load E
+69
+9  // Print character
+2
+1       // Load R
+82
+9  // Print character
+2
+1       // Load A
+65
+9  // Print character
+2
+1       // Load N
+78
+9  // Print character
+2
+1       // Load D
+68
+9  // Print character
+2
+1       // Load SPACE
+32
+9  // Print character
+2
+1       // Load 1
+1
+9  // Print number
+1
+1       // Load SPACE
+32
+9  // Print character
+2
+1       //Load I
+73
+9       // Print character
+2
+1       //Load S
+83
+9       // Print character
+2
+1       //Load ':'
+58
+9       // Print character
+2
+1       //Load SPACE
+32
+9       // Print character
+2
+1	//Load 21 op1
+21
+9	//Print number
+1
+14      // Copy to x
+1
+10
+9
+2
+1       // Load O
+79
+9  // Print character
+2
+1       // Load P
+80
+9  // Print character
+2
+1       // Load E
+69
+9  // Print character
+2
+1       // Load R
+82
+9  // Print character
+2
+1       // Load A
+65
+9  // Print character
+2
+1       // Load N
+78
+9  // Print character
+2
+1       // Load D
+68
+9  // Print character
+2
+1       // Load SPACE
+32
+9  // Print character
+2
+1       // Load 1
+2
+9  // Print number
+1
+1       // Load SPACE
+32
+9  // Print character
+2
+1       //Load I
+73
+9       // Print character
+2
+1       //Load S
+83
+9       // Print character
+2
+1       //Load ':'
+58
+9       // Print character
+2
+1       //Load SPACE
+32
+9       // Print character
+2
+1       //Load 57 op2
+57
+9
+1
+1
+10
+9
+2
+1       // Load S
+83
+9  // Print character
+2
+1       // Load U
+85
+9  // Print character
+2
+1       // Load B
+66
+9  // Print character
+2
+1       // Load T
+84
+9  // Print character
+2
+1       // Load R
+82
+9  // Print character
+2
+1       // Load A
+65
+9  // Print character
+2
+1       // Load C
+67
+9  // Print character
+2
+1       // Load T
+84
+9  // Print character
+2
+1       // Load I
+73
+9  // Print character
+2
+1       // Load O
+79
+9  // Print character
+2
+1       // Load N
+78
+9  // Print character
+2
+1       //Load ':'
+58
+9       // Print character
+2
+1       //Load SPACE
+32
+9       // Print character
+2
+1
+57
+12	// sub 2 operands
+9	//Print AC
+1
+1	//Load 10
+10
+9	//Print new line
+2
+1       // Load A
+65
+9  // Print character
+2
+1       // Load D
+68
+9  // Print character
+2
+1       // Load D
+68
+9  // Print character
+2
+1       // Load I
+73
+9  // Print character
+2
+1       // Load T
+84
+9  // Print character
+2
+1       // Load I
+73
+9  // Print character
+2
+1       // Load O
+79
+9  // Print character
+2
+1       // Load N
+78
+9  // Print character
+2
+1       //Load ':'
+58
+9       // Print character
+2
+1       //Load SPACE
+32
+9       // Print character
+2
+1
+57
+10
+9
+1
+1
+10
+9
+2
+1   // line 1 start
+32  //space
+9
+2
+1
+45  // -
+9   // output many times
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+1  // new line
+10
+9
+2 // line 1 done
+1
+124  // |
+9
+2
+1
+32 // space
+9
+2
+1
+32 // space
+9
+2
+1
+95 // underscore
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9  // print many times
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+32 // space
+9
+2
+1
+32 // space
+9
+2
+1
+32 // space
+9
+2
+1
+124
+9
+2
+1  // new line
+10
+9
+2 // line 2 done
+1
+124
+9
+2
+1
+32
+9
+2
+1
+124
+9
+2
+1
+32
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+1
+124
+9
+2
+1
+32
+9
+2
+9
+2
+1
+124
+9
+2
+1
+10
+9
+2 //line 3 end
+1
+124  // |
+9
+2
+1
+32 // space
+9
+2
+1
+32 // space
+9
+2
+1
+95 // underscore
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9  // print many times
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+1
+95
+9
+2
+9
+2
+9
+2
+1
+32
+9
+2
+9
+2
+9
+2
+9
+2
+1
+124
+9
+2
+1
+10
+9
+2 // line 3 done
+1
+124
+9
+2
+1
+32
+9
+2
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+124
+9
+2
+1
+10
+9
+2 //line end
+1
+124
+9
+2
+1
+32
+9
+2
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+9
+2
+1
+124
+9
+2
+1
+10
+9
+2 //line end
+1
+124
+9
+2
+1
+32
+9
+2
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+9
+2
+1
+124
+9
+2
+1
+10
+9
+2 //line end
+1
+124
+9
+2
+1
+32
+9
+2
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+9
+2
+1
+124
+9
+2
+1
+10
+9
+2 //line end
+1
+124
+9
+2
+1
+32
+9
+2
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+45
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+1
+32
+9
+2
+9
+2
+1
+124
+9
+2
+1
+10
+9
+2 //line end
+1
+32
+9
+2
+1
+45
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+1
+10
+9
+2
+1
+67
+9
+2
+1
+65
+9
+2
+1
+76
+9
+2
+1
+67
+9
+2
+1
+85
+9
+2
+1
+76
+9
+2
+1
+65
+9
+2
+1
+84
+9
+2
+1
+79
+9
+2
+1
+82
+9
+2
+1
+32
+9
+2
+1
+80
+9
+2
+1
+82
+9
+2
+1
+79
+9
+2
+1
+71
+9
+2
+1
+65
+9
+2
+1
+82
+9
+2
+1
+77
+9
+2
+1
+10
+9
+2
+50
